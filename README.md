@@ -39,5 +39,5 @@ Your input *D:\*
 second run of DirectoryAccesor.exe
 Your input *D:\zanuda*
 ```
-Second run of the program will be terminated automatically, because the first run blocked all of the *D:*\* subdirectories.
+Second run of the program will be terminated automatically, because the first run blocked all of the *D:**\* subdirectories.
 Happy usage!
