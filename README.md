@@ -14,7 +14,7 @@ cmake --build .
 ```
 To get the built executable file, write to command line:
 ```
-cd build/Debug
+cd Debug
 ```
 Now, you are ready to run the program.
 
