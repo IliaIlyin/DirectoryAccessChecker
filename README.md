@@ -16,7 +16,7 @@ To get the built executable file, write to the command line:
 ```
 cd Debug
 ```
-Now, you are ready to run the program.
+Now you are ready to run the program.
 
 # Exploitation guide
 Once you get the executable file, you can start using the project. The program accepts an absolute path to the directory and occupies it,
