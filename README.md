@@ -8,8 +8,9 @@ When building *DirectoryAccessChecker*, the typical workflow starts with
 git clone https://github.com/IliaIlyin/DirectoryAccessChecker.git
 cd DirectoryAccessChecker
 mkdir build
+cd build
 cmake ..
-cmake --build build
+cmake --build .
 ```
 To get the built executable file, write to command line:
 ```
