@@ -24,7 +24,7 @@ so that another instance of this program cannot use it, as the program terminate
 DirectoryAccessor creates a new one. Attention:
 **If the directory is locked, all subdirectories are locked too, the reverse is not true.**
 
-# Usage example
+# Example
 Firstly, consider the input, if all input directories are blocked.
 ```
 first run of DirectoryAccesor.exe
